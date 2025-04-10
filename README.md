@@ -23,8 +23,8 @@ A Streamlit-based application that leverages LangChain agents and tools to assis
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/agentic-ai-research.git
-   cd agentic-ai-research
+   git clone https://github.com/anweshaprakash/agenticAI-researcher.git
+   cd agenticAI-researcher
    ```
 
 2. **Install dependencies**
@@ -46,7 +46,7 @@ A Streamlit-based application that leverages LangChain agents and tools to assis
 4. **Run the Streamlit app**
 
    ```bash
-   streamlit run app.py
+   streamlit run agent.py
    ```
 
 ## 📁 Project Structure
